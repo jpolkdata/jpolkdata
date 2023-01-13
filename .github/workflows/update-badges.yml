@@ -14,6 +14,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: jpolkdata/jpolkdata
           COMMIT_MESSAGE: "Updating badges"
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_SORT: POPULAR
