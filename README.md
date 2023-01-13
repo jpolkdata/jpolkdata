@@ -12,3 +12,5 @@
 <br>
 <br>
 <!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
