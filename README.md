@@ -1,8 +1,8 @@
-[hi](https://giphy.com/gifs/hello-hi-dzaUX7CAG0Ihi)
+![hi](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
-## About me
-
-
+## About Me
+<!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
+Hello, I'm a data engineer with a background in data integration. I've worked in data positions in the healthcare industry for the last 10+ years. I love tech and learning new things. I'm currently working towards cloud certifications and improving my knowledge of data engineering concepts and tools.
 
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
@@ -20,9 +20,7 @@
 - [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS.
 
 ## 🎓 Certificates & Trainings
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
+badges_tag
 
 ## ⚡ GitHub Stats
 ![](https://komarev.com/ghpvc/?username=jpolkdata)
