@@ -1,18 +1,11 @@
 <a href=""><img align="center" src="https://komarev.com/ghpvc/?username=jpolkdata" /></a>
-<br>
-<br>
-<a href="My Github Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpolkdata&show_icons=true&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4&hide=contribs,issues" />
-</a>
-<br>
-<br>
-<a href="Top Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpolkdata&layout=compact&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4" />
-</a>
-<br>
-<br>
 
 
+
+
+## 🎓 Certificates & Trainings
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 #### 👷 Check out what I'm currently working on
@@ -28,3 +21,8 @@
 - [jpolkdata/azure_python_etl](https://github.com/jpolkdata/azure_python_etl) - A serverless ETL pipeline in Azure using Python
 - [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities
 - [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS.
+
+## ⚡ GitHub Stats
+
+![jpolkdata](https://github-readme-stats.vercel.app/api?username=jpolkdata&show_icons=true&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4&hide=contribs,issues)
+![jpolkdata](https://github-readme-stats.vercel.app/api/top-langs/?username=jpolkdata&layout=compact&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4)
