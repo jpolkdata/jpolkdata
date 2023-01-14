@@ -13,7 +13,6 @@ Hello, I'm a data engineer with a background in data integration. I've worked in
 
 ## 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/3639db6b-0e0d-4176-ad44-b3e4005d8ed7 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 
