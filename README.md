@@ -12,6 +12,7 @@ I've worked in data positions in the healthcare industry for the last 10+ years.
 - [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (2 weeks ago)
 
 ## 🎓 Certificates & Trainings
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
