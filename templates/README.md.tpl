@@ -11,6 +11,7 @@ I've worked in data positions in the healthcare industry for the last 10+ years.
 {{- end}}
 
 ## 🎓 Certificates & Trainings
+
 badges_tag
 
 ## ⚡ GitHub Stats
