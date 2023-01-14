@@ -2,7 +2,7 @@
 
 ## About Me
 <!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
-Hello, I'm a data engineer with a background in data integration. I've worked in data positions in the healthcare industry for the last 10+ years. I love tech and learning new things. I'm currently working towards cloud certifications and improving my knowledge of data engineering concepts and tools.
+I've worked in data positions in the healthcare industry for the last 10+ years. I love tech and learning new things. I'm currently working towards cloud certifications and improving my knowledge of data engineering concepts and tools. In my spare time I'm also working on some home automation and home lab projects to continue sharpening my skillset.
 
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
@@ -11,6 +11,7 @@ Hello, I'm a data engineer with a background in data integration. I've worked in
 {{- end}}
 
 ## 🎓 Certificates & Trainings
+
 badges_tag
 
 ## ⚡ GitHub Stats
