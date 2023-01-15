@@ -19,15 +19,6 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: replace placeholder for badge tag
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
-          find: "badges_tag"
-          replace: |
-            <!--START_SECTION:badges-->
-            <!--END_SECTION:badges-->
-          include: README.md
-
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
