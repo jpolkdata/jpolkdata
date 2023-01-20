@@ -2,7 +2,7 @@
 
 ## About Me
 <!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
-I've worked in data positions in the healthcare industry for the last 10+ years. I love tech and learning new things. I'm currently working towards cloud certifications and improving my knowledge of data engineering concepts and tools. In my spare time I'm also working on some home automation and home lab projects to continue sharpening my skillset.
+I have over a decade of experience working in data roles within the healthcare industry. My passion for technology and continuous learning has led me to pursue cloud certifications and expand my knowledge in data engineering. In my free time, I enjoy experimenting with home automation and working on projects in my home lab to further develop my skills.
 
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
