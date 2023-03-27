@@ -7,7 +7,7 @@ I have over a decade of experience working in data roles within the healthcare i
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
 
-- [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (2 weeks ago)
+- [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (3 weeks ago)
 - [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (1 month ago)
 - [jpolkdata/azure_python_etl](https://github.com/jpolkdata/azure_python_etl) - A serverless ETL pipeline in Azure using Python (2 months ago)
 
