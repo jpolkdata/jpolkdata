@@ -11,7 +11,7 @@ I have over a decade of experience working in data roles within the healthcare i
 {{- end}}
 
 ## 🎓 Certificates & Trainings
-<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AZ900_Azure_Fundamentals.png width="200">
+<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AZ900_Azure_Fundamentals.png width="150">
 
 ## ⚡ GitHub Stats
 ![jpolkdata](https://github-readme-stats.vercel.app/api?username=jpolkdata&show_icons=true&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4&hide=contribs,issues)<br>
