@@ -2,7 +2,13 @@
 
 ## About Me
 <!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
-I have over a decade of experience working in data roles within the healthcare industry. My passion for technology and continuous learning has led me to pursue cloud certifications and expand my knowledge in data engineering. In my free time, I enjoy experimenting with home automation and working on projects in my home lab to further develop my skills.
+Hey there! I'm a data engineer who also likes to play with technology. 
+
+I use this profile as a way to test out new tools and work on some personal projects separate from my day job. There's a mixture of notes, demos, POCs, as well as small projects I'm playing with to help make my life easier.
+
+I have over a decade of experience working in data roles within the healthcare industry. I love working with data, and I'm also working on building out my skills in cloud technologies.
+
+In my free time I enjoy experimenting with home automation and working on projects in my home lab to further develop my skills.
 
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
@@ -10,7 +16,7 @@ I have over a decade of experience working in data roles within the healthcare i
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-## 🎓 Certificates & Trainings
+## 🎓 Certifications
 <img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AZ900_Azure_Fundamentals.png width="200">
 
 ## ⚡ GitHub Stats
