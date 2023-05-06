@@ -13,8 +13,8 @@ In my free time I enjoy experimenting with home automation and working on projec
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
 
-- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (6 days ago)
-- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (6 days ago)
+- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (1 week ago)
+- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (1 week ago)
 - [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (2 months ago)
 
 ## 🎓 Certificates & Trainings
