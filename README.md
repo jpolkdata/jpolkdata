@@ -18,7 +18,8 @@ In my free time I enjoy experimenting with home automation and working on projec
 - [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (4 weeks ago)
 
 ## 🎓 Certificates & Trainings
-<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AZ900_Azure_Fundamentals.png width="150">
+<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png width="150">
+<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png width="150">
 
 ## ⚡ GitHub Stats
 ![jpolkdata](https://github-readme-stats.vercel.app/api?username=jpolkdata&show_icons=true&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4&hide=contribs,issues)<br>
