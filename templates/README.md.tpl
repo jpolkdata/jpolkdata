@@ -17,8 +17,13 @@ In my free time I enjoy experimenting with home automation and working on projec
 {{- end}}
 
 ## 🎓 Certificates & Trainings
-<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png width="150">
-<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png width="150">
+##<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png width="150">
+##<img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png width="150">
+
+<div style="display: flex;">
+  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png" style="width: 50%;" />
+  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png" style="width: 50%;" />
+</div>
 
 ## ⚡ GitHub Stats
 ![jpolkdata](https://github-readme-stats.vercel.app/api?username=jpolkdata&show_icons=true&theme=tokyonight&bg_color=40,1B1D77,130874,5127A4&hide=contribs,issues)<br>
