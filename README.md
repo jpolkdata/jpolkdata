@@ -14,8 +14,8 @@ In my free time I enjoy experimenting with home automation and working on projec
 #### 👷 Check out what I'm currently working on
 
 - [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (2 weeks ago)
-- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (3 weeks ago)
-- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (3 weeks ago)
+- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (4 weeks ago)
+- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (4 weeks ago)
 
 ## 🎓 Certificates & Trainings
 <img src=https://github.com/jpolkdata/jpolkdata/blob/main/images/AZ900_Azure_Fundamentals.png width="150">
