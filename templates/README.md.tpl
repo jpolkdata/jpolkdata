@@ -1,9 +1,7 @@
 ![hi](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 ## About Me
-
 <!-- <a href="https://jpolkdata.github.io/">View my GitHub project page</a> -->
-
 Hey there! I'm a data engineer and a guy who just loves technology in general. I have over a decade of experience working in data roles within the healthcare industry to support value-based care initiatives. I love working with data, and I'm also working on actively building out my skills in cloud technologies.
 
 Most of my coding and architectural work is done...at work :D So I tend to work in this space on an irregular basis. However, I use this space as a way to test out new tools and smaller personal projects that don't make sense to do at work. There's a mixture of notes, demos, POCs, as well as small projects I'm playing with to help make my life easier.
