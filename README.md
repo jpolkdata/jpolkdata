@@ -13,14 +13,14 @@ In my free time I enjoy experimenting with home automation and working on projec
 ## 🎬 My Activities
 #### 👷 Check out what I'm currently working on
 
-- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (2 weeks ago)
-- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (4 weeks ago)
-- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (4 weeks ago)
+- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (2 months ago)
+- [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (3 months ago)
+- [jpolkdata/airflow_poc](https://github.com/jpolkdata/airflow_poc) - Evaluating Airflow capabilities (3 months ago)
 
 ## 🎓 Certificates & Trainings
 <div style="display: flex;">
-  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png" style="width: 10%;" />
-  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png" style="width: 10%;" />
+  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png" style="width: 20%;" />
+  <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png" style="width: 20%;" />
 </div>
 
 ## ⚡ GitHub Stats
