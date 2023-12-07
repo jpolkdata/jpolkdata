@@ -16,11 +16,11 @@ In my free time I enjoy experimenting with home automation and working on projec
 
 
 
-- [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (1 week ago)
+- [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (2 weeks ago)
 
 - [jpolkdata/BudgetTracking](https://github.com/jpolkdata/BudgetTracking) - Organize and track personal spending (3 weeks ago)
 
-- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (6 months ago)
+- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (7 months ago)
 
 ## 🎓 Certificates & Trainings
 
