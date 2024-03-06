@@ -18,7 +18,7 @@ In my free time I enjoy experimenting with home automation and working on projec
 
 - [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (3 months ago)
 
-- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (9 months ago)
+- [jpolkdata/azure_data_pipeline](https://github.com/jpolkdata/azure_data_pipeline) - POC for Data Pipeline Using Azure Tools (10 months ago)
 
 - [jpolkdata/spotify-analysis](https://github.com/jpolkdata/spotify-analysis) - Interact with the Spotify API to analyze how album lengths have changed over time. Uses Python, Terraform and AWS. (10 months ago)
 
