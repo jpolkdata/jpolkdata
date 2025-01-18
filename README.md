@@ -2,7 +2,9 @@
 
 ## About Me
 
-Hey there! I'm a data engineer and a guy who just loves technology in general. I have over a decade of experience working in data roles within the healthcare industry. Those efforts have mostly been to support value-based care initiatives and to help doctors be more efficient at managing their patients' health. I love working with data, and building out my skills in cloud technologies is something I've been focusing on lately. I've used AWS in the past but my current focus is Azure.
+Hey there! I'm a data engineer and a guy who just loves technology in general. I have over a decade of experience working in data roles within the healthcare industry. Those efforts have mostly been to support value-based care initiatives and to help doctors be more efficient at managing their patients' health. 
+
+On a day-to-day basis I love working with data and solving problems. Understanding cloud technologies is important to my role and is something I've been focusing on lately. I've used AWS in the past but my current focus is Azure.
 
 I use this space as needed. That may be when I want to try something that doesn't make sense to do at work, or I have a personal project to work on. There's a mixture of notes, demos, POCs, as well as small projects I'm playing with to help make my life easier.
 
