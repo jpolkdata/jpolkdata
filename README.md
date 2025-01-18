@@ -8,14 +8,14 @@ I use this space as needed. That may be when I want to try something that doesn'
 
 In my free time my hobbies include 3D printing, self-hosting, home automation, and reading.
 
-## 🎓 Certifications
+## Certifications
 [DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/7EC3F529F4D13D0A?sharingId=45CC7AF07ACD5F45)
 
 [DP-900: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/17CFF5653DA2AE1F?sharingId=45CC7AF07ACD5F45)
 
 [AZ-900: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/18898517E17C9FE1?sharingId=45CC7AF07ACD5F45)
 
-## 🎬 Recent Activity
+## Recent Activity
 
 - [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (3 days ago)
 
