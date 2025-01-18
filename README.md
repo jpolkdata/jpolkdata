@@ -22,12 +22,16 @@ In my free time some of my hobbies include 3D printing, self-hosting, home autom
 
 ## 🎓 Certificates & Trainings
 [DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/7EC3F529F4D13D0A?sharingId=45CC7AF07ACD5F45)
+
 [DP-900: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/17CFF5653DA2AE1F?sharingId=45CC7AF07ACD5F45)
+
 [AZ-900: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/18898517E17C9FE1?sharingId=45CC7AF07ACD5F45)
 
+<--
 <div style="display: flex;">
   <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureFundamentals_AZ-900.png" style="width: 20%;" />
   <img src="https://github.com/jpolkdata/jpolkdata/blob/main/images/AzureDataFundamentals_DP-900.png" style="width: 20%;" />
 </div>
+-->
 
 
