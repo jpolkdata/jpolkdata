@@ -15,9 +15,7 @@ In my free time my hobbies include 3D printing, self-hosting, home automation, a
 
 [AZ-900: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeffPolk-4749/18898517E17C9FE1?sharingId=45CC7AF07ACD5F45)
 
-## 🎬 My Activities
-
-#### 👷 The Most Recent Projects I've Worked on Here
+## 🎬 Recent Activity
 
 - [jpolkdata/personal-code-reference-library](https://github.com/jpolkdata/personal-code-reference-library) - Bits of code across various languages that I need to refer to from time-to-time (3 days ago)
 
